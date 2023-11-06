@@ -1,0 +1,17 @@
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\bin\Debug\SYSTEM-KusinerosBristo.exe.config
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\bin\Debug\SYSTEM-KusinerosBristo.exe
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\bin\Debug\SYSTEM-KusinerosBristo.pdb
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM-KusinerosBristo.csproj.AssemblyReference.cache
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM-KusinerosBristo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Properties.Resources.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM-KusinerosBristo.csproj.GenerateResource.cache
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM-KusinerosBristo.csproj.CoreCompileInputs.cache
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM-KusinerosBristo.exe
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM-KusinerosBristo.pdb
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmAdminDashboard.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmLogin.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmHome.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmPOS.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmMenu.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmSalesReport.resources
+C:\Users\Mel Anthony Rusiana\source\repos\SYSTEM-KusinerosBristo\obj\Debug\SYSTEM_KusinerosBristo.Forms.FrmRegistration.resources
